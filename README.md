@@ -12,4 +12,4 @@ Select a letter to figure out a hidden word in a set amount of chances
 - Show popup on win or lose
 - Play again button to reset game
 # HangMan-Game
-# HangMan-Game
+
